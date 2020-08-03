@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mitulp236@gmail.com**
 
-<h3 align="center">
+<h3 align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/> 
@@ -22,8 +22,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
 </h3>
 
-<p style="font-size:50;ign="center"> 
-<a href="https://twitter.com/mitulp236" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mitulp236" height="20" width="20" /></a> 
-<a href="https://linkedin.com/in/mitulp236" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mitulp236" height="20" width="20" /></a> 
+<p align="center"> 
+<a href="https://twitter.com/mitulp236" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mitulp236" height="20" width="20" /></a> <pre> </pre>
+<a href="https://linkedin.com/in/mitulp236" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mitulp236" height="20" width="20" /></a> <pre> </pre>
 <a href="https://instagram.com/mitulp236" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mitulp236" height="20" width="20" /></a> 
 </p>
