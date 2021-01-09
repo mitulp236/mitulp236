@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Mitul Patel</h1>
+# Hello, World! 👋
 <h3>A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitulp236" alt="mitulp236" /> </p>
