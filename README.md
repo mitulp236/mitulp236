@@ -12,7 +12,6 @@ My self Mitul Patel, A full stack developer
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=aws&logoColor=white&color=2bbc8a)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitulp236&layout=compact&hide=html" alt="mitulp236" /></p>
 
