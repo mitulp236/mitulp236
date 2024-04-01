@@ -4,7 +4,6 @@ My self Mitul Patel, A full stack developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitulp236" alt="mitulp236" /> </p>
 
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
 ![Gatsby](https://img.shields.io/badge/Code-Gatsby-informational?style=flat-square&logo=gatsby&logoColor=white&color=2bbc8a)
 ![Nodejs](https://img.shields.io/badge/Code-Nodejs-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
