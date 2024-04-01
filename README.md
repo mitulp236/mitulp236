@@ -1,5 +1,4 @@
 # Hello, World! 👋
-My self Mitul Patel, A full stack developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitulp236" alt="mitulp236" /> </p>
 
